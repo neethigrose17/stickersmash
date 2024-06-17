@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.neethigrose17.yarnexpoapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6b9066ba-7fc1-4397-91b3-2abc134eb3bf"
+      }
+    },
+    "owner": "neethigrose17"
   }
 }
